@@ -26,8 +26,10 @@ flutter pub add easy_debounce
  • و كمان حافظت علي السيرفر الخاص بالمشروع من كثرة الطلبات عليه
 
  •  link: https://lnkd.in/dB5uK5P6
+ <div>
  •  Example
- 
+  </div>
+
 <img src='https://github.com/Ahmedelsapagh10/Easy-Debounce-/blob/master/2.png' width="70%"/>
 <img src='https://github.com/Ahmedelsapagh10/Easy-Debounce-/blob/master/11.png' width="70%"/>
 
